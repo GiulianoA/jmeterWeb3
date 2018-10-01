@@ -1351,3 +1351,10 @@ java.nio.file.FileAlreadyExistsException: /home/giuliano/eclipse-workspace/ingwe
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
 	at java.lang.Thread.run(Thread.java:748)
+01-10-2018 17:18:44.405 a.e.i.i.Ingweb3ApplicationTests.logStarting Starting Ingweb3ApplicationTests on giuliano-Aspire-E5-571 with PID 8587 (started by giuliano in /home/giuliano/eclipse-workspace/ingweb3)
+01-10-2018 17:18:44.407 a.e.i.i.Ingweb3ApplicationTests.logStarting Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+01-10-2018 17:18:44.410 a.e.i.i.Ingweb3ApplicationTests.logStartupProfileInfo No active profile set, falling back to default profiles: default
+01-10-2018 17:18:49.316 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-10-2018 17:18:50.370 a.e.i.i.Ingweb3ApplicationTests.logStarted Started Ingweb3ApplicationTests in 6.3 seconds (JVM running for 7.208)
+01-10-2018 17:18:50.374 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$e95e266e.run DataSource=HikariDataSource (HikariPool-1)
+01-10-2018 17:18:50.374 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$e95e266e.run Los archivos se subirán en: subidos
